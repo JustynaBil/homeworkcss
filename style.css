@@ -1,0 +1,50 @@
+ body {
+    font-family: 12pt,'Times New Roman', Times, serif; 
+    font-style: inherit;
+    background: #6ed3cf; 
+   }
+  h2 { 
+    color: #1A1C1A; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic; 
+    text-align: right; 
+   }
+   p {
+   font-family: 'Times New Roman', Times, serif; 
+   text-align: justify;   
+   }
+   .container {
+    width: 700px; 
+    margin: 0 auto; 
+    background: #DABFF7; 
+   }
+   .header {
+    font-weight: bold;
+    font-size: 58px; 
+    text-align: center; 
+    padding: 20px; 
+    background: #8fa09b; 
+    color: #EBFFFF; 
+   }
+   #pic {
+    float: left; 
+   }
+   .sidebar {
+    font-size:19px;
+    margin-top: 30px;
+    width: 130px; 
+    padding:  20px; 
+    float: left; 
+   }
+   .content {
+    margin-left: 145px; 
+    padding: 90px; 
+    background: #FFF; 
+   }
+   .footer {
+    font-size:18px;
+    background: #8fa09b;
+    color: #EBFFFF; 
+    padding: 7px; 
+    clear: left; 
+   }
